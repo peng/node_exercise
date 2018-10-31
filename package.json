@@ -1,0 +1,23 @@
+{
+  "name": "node_exercise",
+  "version": "1.0.0",
+  "description": "exercise",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mysql": "^2.16.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peng/node_exercise.git"
+  },
+  "author": "peng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peng/node_exercise/issues"
+  },
+  "homepage": "https://github.com/peng/node_exercise#readme"
+}
